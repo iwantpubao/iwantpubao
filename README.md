@@ -11,9 +11,6 @@ I enjoy exploring new technologies and building creative solutions.
   <sub>M.S in Statistics , 2025.3</sub>
 
 
-## ✨ Interests
+## ✨ Interests/Projects/Skills
 
-* **Technology:**  [List of specific technologies/areas like AI, Web Development, Cybersecurity, etc.]
-* **Hobbies:** [List your hobbies - coding, gaming, photography, reading, etc.]
-* **Open Source:** [Mention your interest in contributing to open-source projects]
-* **[Any other relevant interests]**
+will update soon
