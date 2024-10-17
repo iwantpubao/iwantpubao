@@ -6,7 +6,7 @@ I enjoy exploring new technologies and building creative solutions.
 ## 🎓 Education
 
 * **Hankuk University of Foreign Studies**    
-  B.S in Spaish and Statistics , 2023
+  <sub>B.S in Spanish and Statistics, 2023</sub>
 * **Korea University**   
    M.S in Statistics , 2025.2
 
