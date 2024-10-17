@@ -1,14 +1,14 @@
-## About Me
+## 👨‍💻 About Me
 
-Hi, I'm Seong Hyeonsu 
+Hi, I'm Seong Hyeonsu  
 I enjoy exploring new technologies and building creative solutions.
 
-## Education
+## 🎓 Education
 
 * **[University Name]** - [Degree] in [Major], [Graduation Year]
 * **[Relevant Course/Certification]** - [Institution], [Completion Year]
 
-## Interests
+## ✨ Interests
 
 * **Technology:**  [List of specific technologies/areas like AI, Web Development, Cybersecurity, etc.]
 * **Hobbies:** [List your hobbies - coding, gaming, photography, reading, etc.]
