@@ -1,12 +1,13 @@
 ## 👨‍💻 About Me
 
-Hi, I'm Seong Hyeonsu  
+Hi, I'm Hyeonsu.   
 I enjoy exploring new technologies and building creative solutions.
 
 ## 🎓 Education
 
-* **[University Name]** - [Degree] in [Major], [Graduation Year]
-* **[Relevant Course/Certification]** - [Institution], [Completion Year]
+* **[Hankuk University of Foreign Studies]** - [B.S] in [Spanish and Statistics], [2017.3 ~ 2023.2]
+* **[Korea University]** - [M.S] in [Statistics], [2023.3 ~ 2025.2]
+
 
 ## ✨ Interests
 
