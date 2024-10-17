@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**iwantpubao/iwantpubao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm [Your Name], a passionate and curious [Your Profession/Title] with a love for [Your Interests]. I enjoy exploring new technologies and building creative solutions.
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[University Name]** - [Degree] in [Major], [Graduation Year]
+* **[Relevant Course/Certification]** - [Institution], [Completion Year]
+
+## Interests
+
+* **Technology:**  [List of specific technologies/areas like AI, Web Development, Cybersecurity, etc.]
+* **Hobbies:** [List your hobbies - coding, gaming, photography, reading, etc.]
+* **Open Source:** [Mention your interest in contributing to open-source projects]
+* **[Any other relevant interests]**
