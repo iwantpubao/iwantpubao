@@ -13,4 +13,4 @@ I enjoy exploring new technologies and building creative solutions.
 
 ## ✨ Interests/Projects/Skills
 
-will update soon
+Will update soon
