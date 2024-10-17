@@ -1,6 +1,7 @@
 ## About Me
 
-Hi, I'm [Your Name], a passionate and curious [Your Profession/Title] with a love for [Your Interests]. I enjoy exploring new technologies and building creative solutions.
+Hi, I'm Seong Hyeonsu 
+I enjoy exploring new technologies and building creative solutions.
 
 ## Education
 
