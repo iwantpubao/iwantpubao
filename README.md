@@ -5,8 +5,10 @@ I enjoy exploring new technologies and building creative solutions.
 
 ## 🎓 Education
 
-* **Hankuk University of Foreign Studies** , B.S in Spaish and Statistics , 2023
-* **Korea University** , M.S in Statistics , 2025.2
+* **Hankuk University of Foreign Studies**    
+  B.S in Spaish and Statistics , 2023
+* **Korea University**   
+   M.S in Statistics , 2025.2
 
 
 ## ✨ Interests
