@@ -1,7 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi, I'm Hyeonsu.   
-I enjoy exploring new technologies and building creative solutions.
+
 
 ## 🎓 Education
 
@@ -11,6 +10,5 @@ I enjoy exploring new technologies and building creative solutions.
   <sub>M.S in Statistics , 2025.2</sub>
 
 
-## ✨ Interests/Projects/Skills
 
-Will update soon
+
